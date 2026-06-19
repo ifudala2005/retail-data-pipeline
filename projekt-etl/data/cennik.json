@@ -1,0 +1,32 @@
+[
+  {
+    "product_id": 101,
+    "name": "Piwo Kustosz Jasne",
+    "price": 2.99,
+    "category": "Alkohol"
+  },
+  {
+    "product_id": 102,
+    "name": "Mleko Mleczna Dolina 3.2%",
+    "price": 3.49,
+    "category": "Nabial"
+  },
+  {
+    "product_id": 103,
+    "name": "Bulki Kajzerki",
+    "price": 0.35,
+    "category": "Pieczywo"
+  },
+  {
+    "product_id": 104,
+    "name": "Parowki z Szynki Kraina Wedlin",
+    "price": 5.99,
+    "category": "Mieso"
+  },
+  {
+    "product_id": 105,
+    "name": "Chipsy Top Chips Paprykowe",
+    "price": 4.50,
+    "category": "Przekaski"
+  }
+]
